@@ -1,4 +1,4 @@
-Phone Book Application with Typescript and React
+Phon eContact Management Application with Typescript and React
 
  The vew the demo of the application, click here [View Demo](https://phonebook-appp.netlify.app/)
 
